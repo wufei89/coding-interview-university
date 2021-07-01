@@ -323,7 +323,7 @@
 
 请阅读以下的文章以免重蹈覆辙:
 
-- [ ] [记住计算机科学知识](https://startupnextdoor.com/retaining-computer-science-knowledge/)。
+- [x] [记住计算机科学知识](https://startupnextdoor.com/retaining-computer-science-knowledge/)。
 
 有人推荐给我的课程（但我还沒看过）：[学习如何学习](https://www.coursera.org/learn/learning-how-to-learn)。
 
