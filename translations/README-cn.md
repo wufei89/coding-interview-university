@@ -230,7 +230,7 @@
 - JavaScript
 - Ruby
 
-我之前写过一篇关于在面试时选择编程语言的文章：[为编程面试选择一种语言](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)。
+我之前写过一篇关于在面试时选择编程语言的文章：- [x] [为编程面试选择一种语言](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)。
 
 你需要对你所选择的语言感到非常舒适且足够了解。
 
