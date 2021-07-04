@@ -410,7 +410,7 @@
     - [x] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=XM4lGflQFvA)
     - [x] [计算机如何计算（视频）](https://youtu.be/1I5ZMmrOfnA)
     - [x] [寄存器和内存（视频）](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [中央处理单元（视频）](https://youtu.be/FZGugFqdr60)
+    - [x] [中央处理单元（视频）](https://youtu.be/FZGugFqdr60)
     - [ ] [指令和程序（视频）](https://youtu.be/zltgXvg6r3k)
 
 ## 算法复杂度 / Big-O / 渐进分析法
